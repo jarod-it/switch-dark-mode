@@ -14,7 +14,7 @@ Clone le projet :
 
 git clone [https://github.com/jarod-it/switch-dark-mode.git]
 
-cd convolution
+cd switch-dark-mode
 
 # 🧑‍💻 Auteur
 
